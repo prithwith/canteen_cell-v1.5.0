@@ -156,7 +156,7 @@ class SplashState extends State<Splash> {
             width: MediaQuery.of(context).size.width,
             child: Center(
               child: AutoSizeText(
-                "Developed By Prithwith,Modified By CCLMS IT Team",
+                "Developed By Prithwith",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.white,
